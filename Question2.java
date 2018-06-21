@@ -32,5 +32,3 @@
 		}
 		return s + decodeString(k - 1, s);
 	}
-
-	/*
